@@ -1,0 +1,31 @@
+ <!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+<title>HELLO WORLD</title>
+</head>
+<body>
+    <p style="color:rgb(199, 14, 44); font-size:60px; text-align:center;">
+                        Dear Sita!
+    </p>
+            <div style="color:rgb(212, 26, 100); font-size:30px;text-align:calc(23,30);">
+              &quot;  Nelaki 600 sampadhinchey sainikudi kosam motham vadhilesi vachina uvarani,
+        eee janmaku&nbsp;eka&nbsp;selavu !  &lt; &gt; &amp; &quot;
+            </div>
+            <ul>
+             <li>It includes :</li>
+             <li>Emotions</li>
+             <li>Drama</li> 
+             <li>Love</li>
+               <ul>
+                <li>Romance</li>
+                <ul>
+                    <li>Couples</li>
+                </ul>
+               
+               </ul>
+            </ul>
+            <footer style="text-align:center;">
+                <p1>&copy;princess&nbsp;noor&nbsp;jahan </p1></footer>
+  </body>
+  </html>
