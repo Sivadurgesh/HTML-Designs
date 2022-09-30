@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <meta charset="utg-8">
+        <title>
+            Creating Links
+        </title>
+</head>
+<body>
+     <h1 id="top">Sirivennela Sitharama Sastri</h1>
+        <section>
+            <ul>
+                <li><a href="#Song-1">Shyam Singha Roy</a></li>
+                <li><a href="#Song-2">Amma From Oke Oka Jeevitham</a></li>
+                <li><a href="#Song-3">Kaanunna Kalyanam</a></li>
+            </ul>
+        </section>
+         <section id="Song-1">
+      <h2> Shyam Singha Roy</h2>
+        <p> Puttinshaa O Aksharame
+Kaagithapu Kadupu Cheelche
+Anyaayam Thale Thenche
+Are Karavaalam La
+Padhunaa Kalameraa
+
+Shyam Singha Roy
+Are Egasi Egasi Alajadi Vaade
+Shyam Singha Roy
+Are Thiragabina Sangraamam Vaade
+Shyam Singha Roy
+Are Venakabadani Chaitanyam Vaade
+Shyam Singha Roy
+Singha Roy Singha Roy
+Singha Roy
+
+Patasule Likhisthaadau
+Nijam Kosam Shramisthaadu
+Janam Kosam Thapisthaadu
+Are Agnananne Pathara Vesthadu
+
+Paduthu Unna Prathi Puta Paina
+Thana Nethuru Sirala Pare Raa
+Medale Vanche Rajula Thone
+Kavi Prashnala Yudham Raa
+Sindhuram Rangunna Jendaa Raa
+Shyam Singha Roy
+Are Egasi Egasi Alajadi Vaade
+Shyam Singha Roy
+Are Thiragabina Sangraamam Vaade
+Shyam Singha Roy
+Are Venakabadani Chaitanyam Vaade
+
+Shyam Singha Roy
+Singha Roy Singha Roy
+Singha Roy
+Shyam Singha Roy
+Are Egasi Egasi Alajadi Vaade
+Shyam Singha Roy
+Are Thiragabina Sangraamam Vaade
+Shyam Singha Roy
+Are Venakabadani Chaitanyam Vaade
+
+Shyam Singha Roy
+Singha Roy Singha Roy
+Singha Roy
+Gar Jinche Mudhre Raa
+Thellodaina Nallodaina
+Theda Ledhu Raa
+Swathanthram Nee Swapnam Raa
+Ye Krodhaalu Udhvegaalu
+Ninnem Cheyu Raa
+
+Gudilo Unna Gadilo Unna
+Sthree Shakthi Ki
+Inthati Kashtaalaa
+Thalale Thepe Aa Kaalikake
+Cherabatuthu Sankellaa
+Nee Valle Ee Sweche
+Saadhyam Raa
+
+Shyam Singha Roy
+Are Egasi Egasi Alajadi Vaade
+Shyam Singha Roy
+Are Thiragabina Sangraamam Vaade
+Shyam Singha Roy
+Are Venakabadani Chaitanyam Vaade
+
+Shyam Singha Roy
+Singha Roy Singha Roy
+Singha Roy
+
+Shyam Singha Roy
+Are Egasi Egasi Alajadi Vaade
+Shyam Singha Roy
+Are Thiragabina Sangraamam Vaade
+Shyam Singha Roy
+Are Venakabadani Chaitanyam Vaade
+
+Shyam Singha Roy
+Singha Roy Singha Roy
+Singha Roy </p>
+ </section>
+<section id="Song-2">
+    <h3> Amma From Oke Oka Jeevitham</h3>
+    <p>
+        
+Amma Song Lyrics
+Amma Song Lyrics
+Amma Song (From Oke Oka Jeevitham) (From "Oke Oka Jeevitham")2022
+
+
+Lyrics
+
+Ammaa vinammaa
+
+Nenaanaati nee
+
+laali padaney
+
+Avunamma nenenamma
+
+Nuvvu yennaado
+
+kanipenchina swaranney
+
+
+Mounamai innaallu
+
+nidaraloney unnaa
+
+Gaanamai eenaadey
+
+melukunna
+
+
+Nee paadaalaku muvvalla
+
+Naa adugulu saagalammaa
+
+Nee pedavula chiru navvulla
+
+Naa oopiri velagalamma
+
+Nirantharam nee chanti papalley
+
+Undaali ney nennaallaki
+
+
+Ninnodilenthaga yedagaalanukoney
+
+Ammaa
+
+Anuvanuvanuvu nee koluve
+
+Ammaa
+
+Yedasadilo sruthilayalu nuvey
+
+Amma
+
+Ney kolichey saaradavey
+
+Nanu nithyam nadipey saaradhivey
+
+
+Beduru povaalantey
+
+nuvvu kanipinchaali
+
+Nidara ravaalantey
+
+kathalu vinipinchaali
+
+Aakalayyidante nuvve
+
+thinipinchaali
+
+Prathimethuku naa
+
+bratukanipinchela
+
+
+Nuvvuntene nenu nuvvante nenu
+
+Anuko lekapothey yemaipothaanu
+
+Nee kada choope nannu kaasthu undaka
+
+Thadabadi padiponaa cheppamma
+
+
+Mari mari nanu nuvu muripenga
+
+Choosthu untey chalamma
+
+Pari pari vidhamula geelupuluga
+
+Paikeduguthu untaanammaa
+
+
+Aina sarey yenaatitee
+
+Untaanu nee papaayinai
+
+Ninnodilenthaga yedagaalamukoney
+
+
+Nirantharam nee chanti paapalley
+
+Undaali ney nennaallaki
+
+Nirantharam nee chanti paapalley
+
+Undaali ney nennaallaki
+
+Nirantharam nee chanti paapalley
+
+Undaali ney nennaallaki
+
+
+Ninnodilenthaga yedagaalanukoney
+
+Amma
+
+Anuvanuvanuvoo nee koluve
+
+Amma
+
+Yedasadilo sruthilayalu nuvey
+
+Amma
+
+Ney kolichey saaradavey
+
+Nanu nithyam nadipey saaradhivey
+
+    </p>
+</section>
+<section id="Song-3">
+<h4>Kaanunna Kalyanam</h4>
+<p1>
+    Kaanunna Kalyanam Yemannadhi
+Swayamvaram Manoharam
+Raanunna Vaibhogam Yetuvantidhi
+Prathi Kshanam Marovaram
+
+Viduvani Mudi Idhi Kadha
+Mugimpu Leni Gaadhagaa
+
+Taramula Paatuga
+Taragani Paataga
+Prathi Jatha Saakshiaga
+Pranayamu Nelega Sadha
+
+Kannulloni Kalalu Anni
+Karigiponi Kalaluga
+Kallamundhu Paaradaga
+
+Kannulloni Kalalu Anni
+Karigiponi Kalaluga
+Kallamundhu Paaradaga
+
+Chuttu Evaru Undaruga
+Kittani Choopuluga
+Chuttalantu Kondharundaliga
+Dikkulu Unnaviga
+
+Gatti Melamantu Undadha
+Gundelu Ni Sandhadi Chaladha
+Pelli Peddayevaru Manaki
+Manasule Kadha Ava Sare
+
+Kannulloni Kalalu Anni
+Karigiponi Kalaluga
+Kallamundhu Paaradaga
+
+Kannulloni Kalalu Anni
+Karigiponi Kalaluga
+Kallamundhu Paaradaga
+
+Tagu Tarunam Idhi Kadha
+Madhikidhi Telusuga
+Tadhupari Mari Yemitata
+Tamari Choravata
+
+Bidiyamidhenti Kothagaa
+Taruniki Teguva Tagadhuga
+Paragani Pedhavi Venaka
+Pilupu Polchuko Sare Mari
+
+Kannulloni Kalalu Anni
+Karigiponi Kalaluga
+Kallamundhu Paaradaga
+
+Kannulloni Kalalu Anni
+Karigiponi Kalaluga
+Kallamundhu Paaradaga
+</p1>
+</section>
+<p>Back to top: <a href="#top">Back to top</a></p>
+        
+</body>
+</html>
