@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utg-8">
+    <title>SOME TAGS</title>
+</head>
+<body>
+    <h1>Shiva Durgesh</h1>
+    <br />
+    <hr />
+    <b>Shiva Durgesh</b>
+    <br />
+    <hr />
+    <i>Shiva Durgesh</i>
+    <br />
+    <hr />
+    <small>This shows small text</small>
+    <br />
+    <hr />
+    <big>This shows big text</big>
+    <br />
+    <hr />
+    <h1>Chemical formula of water H<sub>2</sub>O</h1>
+    <br />
+    <hr />
+    <h1>The power 3<sup>2</sup> is 9</h1>
+
+</body>
